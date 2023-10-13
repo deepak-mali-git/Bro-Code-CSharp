@@ -1,0 +1,6 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\009Loop\009Loop\bin\Debug\009Loop.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\009Loop\009Loop\bin\Debug\009Loop.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\009Loop\009Loop\bin\Debug\009Loop.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\009Loop\009Loop\obj\Debug\009Loop.csprojResolveAssemblyReference.cache
+H:\ALL PROJECTS HERE\bro code\bro code c#\009Loop\009Loop\obj\Debug\009Loop.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\009Loop\009Loop\obj\Debug\009Loop.pdb

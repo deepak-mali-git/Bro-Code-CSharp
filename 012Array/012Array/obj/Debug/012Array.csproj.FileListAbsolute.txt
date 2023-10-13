@@ -1,0 +1,6 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\012Array\012Array\bin\Debug\012Array.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\012Array\012Array\bin\Debug\012Array.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\012Array\012Array\bin\Debug\012Array.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\012Array\012Array\obj\Debug\012Array.csprojResolveAssemblyReference.cache
+H:\ALL PROJECTS HERE\bro code\bro code c#\012Array\012Array\obj\Debug\012Array.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\012Array\012Array\obj\Debug\012Array.pdb

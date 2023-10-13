@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\013Method\013Method\bin\Debug\013Method.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\013Method\013Method\bin\Debug\013Method.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\013Method\013Method\bin\Debug\013Method.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\013Method\013Method\obj\Debug\013Method.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\013Method\013Method\obj\Debug\013Method.pdb

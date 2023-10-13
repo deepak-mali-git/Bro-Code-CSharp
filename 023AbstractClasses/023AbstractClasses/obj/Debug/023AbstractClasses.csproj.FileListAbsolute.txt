@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\023AbstractClasses\023AbstractClasses\bin\Debug\023AbstractClasses.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\023AbstractClasses\023AbstractClasses\bin\Debug\023AbstractClasses.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\023AbstractClasses\023AbstractClasses\bin\Debug\023AbstractClasses.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\023AbstractClasses\023AbstractClasses\obj\Debug\023AbstractClasses.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\023AbstractClasses\023AbstractClasses\obj\Debug\023AbstractClasses.pdb

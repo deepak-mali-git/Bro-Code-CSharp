@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\015Exception\015Exception\bin\Debug\015Exception.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\015Exception\015Exception\bin\Debug\015Exception.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\015Exception\015Exception\bin\Debug\015Exception.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\015Exception\015Exception\obj\Debug\015Exception.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\015Exception\015Exception\obj\Debug\015Exception.pdb

@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\022Inheritance\022Inheritance\bin\Debug\022Inheritance.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\022Inheritance\022Inheritance\bin\Debug\022Inheritance.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\022Inheritance\022Inheritance\bin\Debug\022Inheritance.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\022Inheritance\022Inheritance\obj\Debug\022Inheritance.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\022Inheritance\022Inheritance\obj\Debug\022Inheritance.pdb

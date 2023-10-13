@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\038ConsoleApplication1\038ConsoleApplication1\bin\Debug\038ConsoleApplication1.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\038ConsoleApplication1\038ConsoleApplication1\bin\Debug\038ConsoleApplication1.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\038ConsoleApplication1\038ConsoleApplication1\bin\Debug\038ConsoleApplication1.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\038ConsoleApplication1\038ConsoleApplication1\obj\Debug\038ConsoleApplication1.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\038ConsoleApplication1\038ConsoleApplication1\obj\Debug\038ConsoleApplication1.pdb

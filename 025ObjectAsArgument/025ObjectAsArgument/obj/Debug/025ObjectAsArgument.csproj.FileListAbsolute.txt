@@ -1,0 +1,6 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\025ObjectAsArgument\025ObjectAsArgument\bin\Debug\025ObjectAsArgument.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\025ObjectAsArgument\025ObjectAsArgument\bin\Debug\025ObjectAsArgument.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\025ObjectAsArgument\025ObjectAsArgument\bin\Debug\025ObjectAsArgument.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\025ObjectAsArgument\025ObjectAsArgument\obj\Debug\025ObjectAsArgument.csprojResolveAssemblyReference.cache
+H:\ALL PROJECTS HERE\bro code\bro code c#\025ObjectAsArgument\025ObjectAsArgument\obj\Debug\025ObjectAsArgument.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\025ObjectAsArgument\025ObjectAsArgument\obj\Debug\025ObjectAsArgument.pdb

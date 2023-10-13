@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\005MathFunction\005MathFunction\bin\Debug\005MathFunction.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\005MathFunction\005MathFunction\bin\Debug\005MathFunction.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\005MathFunction\005MathFunction\bin\Debug\005MathFunction.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\005MathFunction\005MathFunction\obj\Debug\005MathFunction.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\005MathFunction\005MathFunction\obj\Debug\005MathFunction.pdb

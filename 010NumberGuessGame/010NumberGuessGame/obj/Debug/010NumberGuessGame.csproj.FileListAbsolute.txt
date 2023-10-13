@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\010NumberGuessGame\010NumberGuessGame\bin\Debug\010NumberGuessGame.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\010NumberGuessGame\010NumberGuessGame\bin\Debug\010NumberGuessGame.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\010NumberGuessGame\010NumberGuessGame\bin\Debug\010NumberGuessGame.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\010NumberGuessGame\010NumberGuessGame\obj\Debug\010NumberGuessGame.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\010NumberGuessGame\010NumberGuessGame\obj\Debug\010NumberGuessGame.pdb

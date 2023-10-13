@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\017Class\017Class\bin\Debug\017Class.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\017Class\017Class\bin\Debug\017Class.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\017Class\017Class\bin\Debug\017Class.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\017Class\017Class\obj\Debug\017Class.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\017Class\017Class\obj\Debug\017Class.pdb

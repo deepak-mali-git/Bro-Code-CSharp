@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\006StringMethods\006StringMethods\bin\Debug\006StringMethods.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\006StringMethods\006StringMethods\bin\Debug\006StringMethods.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\006StringMethods\006StringMethods\bin\Debug\006StringMethods.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\006StringMethods\006StringMethods\obj\Debug\006StringMethods.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\006StringMethods\006StringMethods\obj\Debug\006StringMethods.pdb

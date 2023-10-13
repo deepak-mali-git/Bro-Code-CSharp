@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\014Params\014Params\bin\Debug\014Params.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\014Params\014Params\bin\Debug\014Params.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\014Params\014Params\bin\Debug\014Params.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\014Params\014Params\obj\Debug\014Params.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\014Params\014Params\obj\Debug\014Params.pdb

@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\033AutoImplementedProp\033AutoImplementedProp\bin\Debug\033AutoImplementedProp.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\033AutoImplementedProp\033AutoImplementedProp\bin\Debug\033AutoImplementedProp.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\033AutoImplementedProp\033AutoImplementedProp\bin\Debug\033AutoImplementedProp.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\033AutoImplementedProp\033AutoImplementedProp\obj\Debug\033AutoImplementedProp.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\033AutoImplementedProp\033AutoImplementedProp\obj\Debug\033AutoImplementedProp.pdb

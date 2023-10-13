@@ -1,0 +1,6 @@
+C:\Users\ADMIN\Desktop\c#v12 project\001MyFirstProgram\001MyFirstProgram\bin\Debug\001MyFirstProgram.exe.config
+C:\Users\ADMIN\Desktop\c#v12 project\001MyFirstProgram\001MyFirstProgram\bin\Debug\001MyFirstProgram.exe
+C:\Users\ADMIN\Desktop\c#v12 project\001MyFirstProgram\001MyFirstProgram\bin\Debug\001MyFirstProgram.pdb
+C:\Users\ADMIN\Desktop\c#v12 project\001MyFirstProgram\001MyFirstProgram\obj\Debug\001MyFirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\c#v12 project\001MyFirstProgram\001MyFirstProgram\obj\Debug\001MyFirstProgram.exe
+C:\Users\ADMIN\Desktop\c#v12 project\001MyFirstProgram\001MyFirstProgram\obj\Debug\001MyFirstProgram.pdb

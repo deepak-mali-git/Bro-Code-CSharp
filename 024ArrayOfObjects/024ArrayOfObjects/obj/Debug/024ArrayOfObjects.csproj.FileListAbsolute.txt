@@ -1,0 +1,5 @@
+H:\ALL PROJECTS HERE\bro code\bro code c#\024ArrayOfObjects\024ArrayOfObjects\bin\Debug\024ArrayOfObjects.exe.config
+H:\ALL PROJECTS HERE\bro code\bro code c#\024ArrayOfObjects\024ArrayOfObjects\bin\Debug\024ArrayOfObjects.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\024ArrayOfObjects\024ArrayOfObjects\bin\Debug\024ArrayOfObjects.pdb
+H:\ALL PROJECTS HERE\bro code\bro code c#\024ArrayOfObjects\024ArrayOfObjects\obj\Debug\024ArrayOfObjects.exe
+H:\ALL PROJECTS HERE\bro code\bro code c#\024ArrayOfObjects\024ArrayOfObjects\obj\Debug\024ArrayOfObjects.pdb
